@@ -4,12 +4,12 @@
 Schools often manage events manually, leading to communication gaps, scheduling issues, and extra workload for teachers.
 
 ## Solution
-SEA (School Event Assistant) provides a centralized platform for managing school events, provide all event details,and Registration details. 
+SEA (School Event Assistant) provides a centralized platform for managing school events, provides event information and registration management and registration management. 
 
 ## Features
 - Event scheduling
 - Student registration
-- Human friendly
+- User-friendly
 - Chatbot
 
 ## Tech Stack
